@@ -419,6 +419,14 @@
 "Assets/Part2/FiniteStateMachines/Standard Assets/Utility/WaypointCircuit.cs"
 "Assets/Part2/FiniteStateMachines/Standard Assets/Utility/WaypointProgressTracker.cs"
 "Assets/Part2/FiniteStateMachines/State.cs"
+"Assets/Part3/BehaviourTrees/Models/Rotate.cs"
+"Assets/Part3/BehaviourTrees/Script/BehaviourTree.cs"
+"Assets/Part3/BehaviourTrees/Script/Leaf.cs"
+"Assets/Part3/BehaviourTrees/Script/Lock.cs"
+"Assets/Part3/BehaviourTrees/Script/Node.cs"
+"Assets/Part3/BehaviourTrees/Script/RobberBehaviour.cs"
+"Assets/Part3/BehaviourTrees/Script/Selector.cs"
+"Assets/Part3/BehaviourTrees/Script/Sequence.cs"
 -langversion:9.0
 /deterministic
 /optimize+
