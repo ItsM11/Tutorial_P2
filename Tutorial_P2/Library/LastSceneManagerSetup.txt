@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Part3/BehaviourTrees/BTree.unity
+- path: Assets/Part4/GOAP/BasicWorkingHospital.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

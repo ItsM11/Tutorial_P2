@@ -378,6 +378,7 @@
 "Assets/Part2/FiniteStateMachines/Standard Assets/StarterAssets/Editor/PackageChecker/PackageChecker.cs"
 "Assets/Part2/FiniteStateMachines/Standard Assets/StarterAssets/Editor/ScriptingDefineUtils.cs"
 "Assets/Part2/FiniteStateMachines/Standard Assets/StarterAssets/Editor/StarterAssetsDeployMenu.cs"
+"Assets/Part4/GOAP/Editor/GAgentEditor.cs"
 -langversion:9.0
 /deterministic
 /optimize+
